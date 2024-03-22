@@ -1,10 +1,11 @@
 ﻿namespace SalesWebMvc.Models
 {
-    public class Departament
-    {
+	public class Department
+	{
 
-        public int Id { get; set; }
-        public string name { get; set; }
+		public int Id { get; set; }
+		public string Name { get; set; }
 
-    }
+	}
 }
+
